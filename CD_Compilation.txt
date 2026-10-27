@@ -1,0 +1,3 @@
+flex p1.l
+gcc lex.yy.c -o p1 -lfl
+./p1
